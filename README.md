@@ -2,6 +2,7 @@
 
 RetinaXpert is a project aimed at developing a model for accurately identifying and categorizing various eye diseases based on medical images. The project utilizes a diverse set of deep neural network and machine learning models for disease recognition, with the goal of achieving high accuracy, early detection, and practical applicability in real-world scenarios.
 
+
 ## Dataset 📊
 
 ### Dataset Information
@@ -12,6 +13,7 @@ The dataset used in RetinaXpert is a curated collection of retinal images source
 - Glaucoma: 1007 images
 - Normal: 1074 images
 - Diabetic retinopathy: 1098 images
+
 
 ## Models 🧠
 
@@ -65,9 +67,11 @@ The dataset used in RetinaXpert is a curated collection of retinal images source
    - Description: Utilizes a Decision Tree algorithm for disease categorization.
    - Directory: `/RetinaXpert/Decision Tree Model`
 
+
 ## Introduction 🌟
 
 Eye diseases can significantly impact vision, and early detection is crucial for effective treatment. RetinaXpert addresses this challenge by leveraging state-of-the-art models to analyze retinal images and identify conditions such as glaucoma, cataracts, diabetic retinopathy, and normal cases.
+
 
 ## Aim and Objective 🎯
 
@@ -84,9 +88,11 @@ The primary goals of RetinaXpert include:
 - **Continuous Learning:** Enable the model to adapt and improve over time with new data and insights.
 - **Validation:** Rigorously validate the models to ensure their reliability and safety in a healthcare context.
 
+
 ## Getting Started 🚀
 
 To use the RetinaXpert models, refer to the specific model directories for detailed instructions on how to load, train, and evaluate each model. Additionally, ensure that you have the necessary dependencies installed as specified in the project's requirements.
+
 
 ## Feedback and Contributions 🤝
 
