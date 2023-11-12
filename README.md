@@ -42,15 +42,11 @@ The dataset used in RetinaXpert is a curated collection of retinal images source
    - Description: Implements the MobileNet architecture for lightweight and efficient model design.
    - Directory: `/RetinaXpert/MobileNet Model`
 
-7. **Ensemble Model**
-   - Description: Combines predictions from multiple models for enhanced accuracy.
-   - Directory: `/RetinaXpert/Ensemble Model`
-
-8. **VGG16 Model**
+7. **VGG16 Model**
    - Description: Implements the VGG16 architecture for robust feature extraction.
    - Directory: `/RetinaXpert/VGG16 Model`
 
-9. **Xception Model**
+8. **Xception Model**
    - Description: Utilizes the Xception architecture for improved performance.
    - Directory: `/RetinaXpert/Xception Model`
 
