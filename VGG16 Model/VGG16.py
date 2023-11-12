@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Ensemble Model - EDP
+# # VGG16 Model - EDP
 # 
 # ### Author - Shaurya Singh Srinet and Charvi Jain
 
