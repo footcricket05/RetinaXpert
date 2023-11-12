@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Ensemble Model - EDP
+# # Xception Model - EDP
 # 
 # ### Author - Shaurya Singh Srinet and Charvi Jain
 
