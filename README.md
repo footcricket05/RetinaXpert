@@ -69,6 +69,11 @@ The dataset used in RetinaXpert is a curated collection of retinal images source
 Eye diseases can significantly impact vision, and early detection is crucial for effective treatment. RetinaXpert addresses this challenge by leveraging state-of-the-art models to analyze retinal images and identify conditions such as glaucoma, cataracts, diabetic retinopathy, and normal cases.
 
 
+## Elaborate Study PDF 📑
+
+In the `/RetinaXpert/Elaborate_Study.pdf` directory, you will find a comprehensive PDF document providing an in-depth comparative analysis of the model performance. This study includes detailed insights into the strengths, weaknesses, and nuances of each model, along with visualizations of key metrics and performance on specific subsets of the dataset.
+
+
 ## Aim and Objective 🎯
 
 The primary goals of RetinaXpert include:
