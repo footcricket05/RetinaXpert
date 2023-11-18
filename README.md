@@ -5,8 +5,6 @@ RetinaXpert is a project aimed at developing a model for accurately identifying 
 
 ## Dataset 📊
 
-### Dataset Information
-
 The dataset used in RetinaXpert is a curated collection of retinal images sourced from diverse datasets, including IDRiD, Ocular Recognition, HRF, and others. It comprises the following number of images for each class:
 
 - Cataract: 1038 images
